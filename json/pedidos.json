@@ -1,0 +1,8 @@
+{
+    "pedidos": {
+        "id": 1,
+        "owner": "euzin",
+        "produto": "iphone 4",
+        "id_produto": 1
+    }
+}
